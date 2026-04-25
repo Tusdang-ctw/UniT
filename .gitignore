@@ -1,0 +1,15 @@
+# Local Claude Code settings
+.claude/
+
+# Node
+node_modules/
+planned/node_modules/
+
+# Build output
+dist/
+planned/dist/
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+*.log
